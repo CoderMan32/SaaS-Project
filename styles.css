@@ -108,20 +108,6 @@ header {
   padding-bottom: var(--size-20);
   align-items: center;
   justify-items: center;
-  animation: animate-icons 800ms 200ms backwards;
-}
-
-@keyframes animate-icons
- {
-  0% {
-   transform: scale(0);
-  }
-  80% {
-   transform: scale(1.1);
-  }
-  100% {
-   transform: scale(1);
-  }
 }
 
 .icon-width { 
@@ -136,6 +122,7 @@ header {
   width: 60px;
   border-radius: 180px;
   background-color:var(--white);
+  animation: animate-icons 800ms 200ms backwards;
 }
 
 .icon2 {
@@ -145,6 +132,7 @@ header {
   width: var(--size-50);
   border-radius: 180px;
   background-color: var(--white);
+  animation: animate-icons 800ms 200ms backwards;
 }
 
 .icon3 {
@@ -154,6 +142,7 @@ header {
   width: 40px;
   border-radius: 180px;
   background-color: var(--white);
+  animation: animate-icons 800ms 200ms backwards;
 }
 
 
@@ -164,6 +153,7 @@ header {
   width: 40px;
   border-radius: 180px;
   background-color: var(--white);
+  animation: animate-icons 800ms 200ms backwards;
 }
 
 .icon5 {  
@@ -173,6 +163,7 @@ header {
   width: 40px;
   border-radius: 180px;
   background-color:var(--white); 
+  animation: animate-icons 800ms 200ms backwards;
 }
 
 .icon6 {
@@ -182,6 +173,7 @@ header {
   width: 60px;
   border-radius: 180px;
   background-color: var(--white);
+  animation: animate-icons 800ms 200ms backwards;
 }
 
 .icon7 {
@@ -191,6 +183,20 @@ header {
   width: 40px;
   border-radius: 180px;
   background-color:var(--white);
+  animation: animate-icons 800ms 200ms backwards;
+}
+
+@keyframes animate-icons
+ {
+  0% {
+   transform: scale(0);
+  }
+  80% {
+   transform: scale(1.1);
+  }
+  100% {
+   transform: scale(1);
+  }
 }
 
 /* Benefits Section */
