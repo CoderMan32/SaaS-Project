@@ -87,9 +87,9 @@ img {
 .btn {
   color: var(--white);
   font-size: var(--size-10);
-  background-color: #0a2351;
+  background-color: #4969a6;
   border-radius: 15px;
-  padding: var(--size-10) 15px;
+  padding: var(--size-10) 12px;
 }
 
 .btn-link {

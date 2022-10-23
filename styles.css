@@ -11,7 +11,8 @@ header {
 
 .navbottom {
   display: flex;
-  height: 40px;
+  align-items: center;
+  height: 60px;
   padding: 3px 7px;
   font-family: "Hind", sans-serif;
 }
@@ -56,6 +57,14 @@ header {
 .frontlogo {
   width: 150px;
   padding: 15px var(--size-10);
+}
+
+.nav-link {
+  font-family: "Hind", sans-serif;
+}
+
+.nav-link:hover {
+  color: #000;
 }
 
 .empower-title {
