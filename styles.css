@@ -250,8 +250,9 @@ header {
 .key-benefits { margin: 50px 50px; }  
 
 .key-benefits-cards {
-  display: flex;flex-wrap: wrap;
-  gap: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
   padding: 8px;
   font-family: "Hind", sans-serif;
 }
