@@ -5,6 +5,7 @@ header {
     rgba(217, 217, 217, 0.44) -0.39%,
     rgba(217, 217, 217, 0) 55.85%
   );
+  border-radius: 10px;
 }
 
 /* Navigation */

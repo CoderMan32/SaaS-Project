@@ -90,6 +90,7 @@ img {
   background-color: #4969a6;
   border-radius: 15px;
   padding: var(--size-10) 12px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .btn-link {
